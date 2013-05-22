@@ -1,0 +1,124 @@
+/* ----------- Common -------------- */
+Body 
+{
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+.BarText
+{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 11px;
+}
+
+.Grey
+{
+	font-family: "Microsoft Sans Serif",Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #606060;
+	font-weight: normal;
+
+	text-decoration : none;
+}
+
+.SmallGrey
+{
+	font-family: "Microsoft Sans Serif",Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #606060;
+	font-weight: normal;
+
+	text-decoration : none;
+}
+
+.Grey1
+{
+	font-family: "Microsoft Sans Serif",Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #606060;
+	font-weight: normal;
+	text-decoration : none;
+}
+
+.BlueText
+{
+	font-family: "Microsoft Sans Serif",Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #182A55;
+	font-weight: bold;
+	text-decoration : none;
+}
+
+a.ButText
+{
+	font-family: "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration : none;
+	font-weight: bold;
+}
+
+a.ButText:Hover
+{
+	font-family: "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #135084;
+	font-weight: bold;
+	text-decoration : none;
+}
+
+.LinkText
+{
+	font-family: "Microsoft Sans Serif",Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #005392;
+	font-weight: normal;
+	text-decoration : none;
+}
+
+a.LinkText
+{
+	font-family: "Microsoft Sans Serif",Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #005392;
+	font-weight: normal;
+	text-decoration : none;
+}
+
+a.LinkText:Hover
+{
+	font-family: "Microsoft Sans Serif",Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #005392;
+	font-weight: normal;
+	text-decoration : underline;
+}
+
+.TextData
+{
+	font-family: "Arial",Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #182A55;
+	font-weight: none;
+	text-decoration : none;
+}
+
+a.Ekant
+{
+	font-family: "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #4A4949;
+	text-decoration : none;
+}
+
+a.Ekant:Hover
+{
+	font-family: "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF0000;
+	text-decoration : none;
+}
